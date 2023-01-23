@@ -17,6 +17,7 @@ export default function Banner() {
         direction={"column"}
         margin={{ base: "0 16px", lg: "0" }}
         maxW={{ base: "full", md: "1170px" }}
+        width="100%"
       >
         <Heading
           color="#F9F9F9"
